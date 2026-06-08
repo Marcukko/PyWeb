@@ -1,0 +1,5 @@
+
+ django-admin startproject site1 -> dùng để khởi tạo dự án với 'site1'
+ python manage.py migrate ->  dùng để khởi tạo những mặc định ban đầu của web
+ python manage.py runserver 3030 -> tạo 1 localhost trên máy tính ở port "3030" (có thể đổi PORT)
+ python manage.py createsuperuser -> tạo admin user  
